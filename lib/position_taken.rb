@@ -6,3 +6,4 @@ def position_taken?(board,index)
     true
   else nil
 end
+end
